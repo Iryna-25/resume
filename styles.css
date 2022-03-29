@@ -1,4 +1,4 @@
-body, footer {
+body {
     font-family: 'Roboto', 'Noto Sans', sans-serif;
     font-weight: 400;
     font-size: 14px;
@@ -8,7 +8,9 @@ body, footer {
     /* margin-top: 50px; */
     display: flex;
     align-items: center;
-    justify-content: center
+    justify-content: center;
+    height: 1123px;
+    width: 798px;
 }
 
 h4 {
