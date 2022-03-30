@@ -135,7 +135,7 @@ p {
 }
 
 .container {
-
+    margin: 30px;
     max-height: 1123x;
     max-width: 798px;
 }
