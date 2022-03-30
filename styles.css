@@ -9,8 +9,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 1123px;
-    width: 798px;
+    height: 1588px;
+    width: 1285px;
 }
 
 h4 {
@@ -136,7 +136,7 @@ p {
     margin-bottom: 0;
 }
 
-.container {
+/* .container {
 height: 1123px;
 width: 798px;
-}
+} */
