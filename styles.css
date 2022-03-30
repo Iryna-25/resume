@@ -10,7 +10,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 1588px;
-    width: 1285px;
+    width: 900px;
 }
 
 h4 {
@@ -48,9 +48,9 @@ p {
     width: 100%;
 }
 
-.down {
+/* .down {
     margin-top: 20px;
-}
+} */
 
 /* .back {
     width: 200px;
